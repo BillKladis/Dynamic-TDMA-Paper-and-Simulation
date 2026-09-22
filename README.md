@@ -3,8 +3,7 @@
 Simulator and experiments behind the report *Dynamic TDMA for Wireless Sensor
 Networks: Principles, Critical Analysis and a Simulation Study* (Vasilis Kladis,
 Department of Electrical and Computer Engineering, University of Patras). The
-compiled report is [`Dynamic_TDMA_Vasilis_Kladis.pdf`](Dynamic_TDMA_Vasilis_Kladis.pdf);
-its LaTeX source is not part of this repository.
+compiled report is [`Dynamic_TDMA_Vasilis_Kladis.pdf`](Dynamic_TDMA_Vasilis_Kladis.pdf).
 
 The simulator models convergecast in a wireless sensor network. Its schedulers
 address one question, when a dynamic TDMA schedule improves on a static one:
